@@ -1,6 +1,6 @@
 # Sight-singing_Alignment _Dataset
 
-<img src="G:\共享文档\Sight-singing_Alignment_Dataset\images\icon.png" alt="Sight-singing Talent" style="zoom:150%;" />
+<img src=".\images\icon.png" alt="Sight-singing Talent" style="zoom:150%;" />
 
 #### This dataset is published by the article **"RP-NW: An effective Alignment method based on relative pitch for sight-singing"**
 
