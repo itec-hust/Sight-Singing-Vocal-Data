@@ -12,5 +12,5 @@
 
 #### `*.mp3` is the sight-singing recording from different singers. All of the data come from the WeChat   Mini Program *Sight-singing Talent*. If you want to test your sight-singing ability, hurry up and use WeChat to scan the QR code as below!
 
-![](G:\共享文档\Sight-singing_Alignment_Dataset\images\qr.jpg)
+<img src=".\images\qr.png" alt="Sight-singing Talent" style="zoom:150%;" />
 
