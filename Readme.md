@@ -2,8 +2,6 @@
 
 <img src=".\images\icon.png" alt="Sight-singing Talent" style="zoom:150%;" />
 
-#### This dataset is published by the article **"RP-NW: An effective Alignment method based on relative pitch for sight-singing"**
-
 #### This dataset includes 127 sight-singing songs' note alignment annotations that can be used to evaluation note alignment algorithms.  In addition, there are also a corresponding music recording and a file of onset annotation and pitch that can be used for note transcription  in each folder.
 
 #### `*_onset.txt` contains the onset annotations. The first column is onset given in seconds, the second column is pitch.
