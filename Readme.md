@@ -1,4 +1,4 @@
-# Sight-singing_Alignment _Dataset
+# Sight-singing_Vocal _Dataset
 
 <img src=".\images\icon.png" alt="Sight-singing Talent" style="zoom:150%;" />
 
